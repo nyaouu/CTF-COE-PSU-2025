@@ -1,0 +1,5 @@
+Sometimes, the past leaves behind valuable traces. A simple command might reveal what was once typed but never forgotten. Can you uncover the hidden flag?
+
+Example Submit: flag{Answer}
+
+Link URL: https://bit.ly/4c5idWw

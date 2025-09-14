@@ -1,0 +1,5 @@
+Deep inside the vaults of an ancient digital fortress lies a terminal guarded by a suspicious gatekeeper. He doesn’t trust just anyone — only those who carry the right identity and whisper the secret phrase can pass. Your browser might not be enough to convince him. He listens only to specific voices, and requires a subtle signal... not something you’d say out loud, but something you’d pass along quietly, in the handshake. Rumors say there’s a hidden scroll somewhere in the fortress — those who read it may find the words that open the door. Do you have what it takes to win his trust and retrieve what lies within?
+
+Example Submit: flag{Answer}
+
+Link URL: https://ctflab.r202.in.th:15012/

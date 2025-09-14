@@ -1,0 +1,5 @@
+If you manage to press the button, you'll discover something interesting.
+
+Example Submit: flag{Answer}
+
+Link URL: https://ctflab.r202.in.th:15009/

@@ -1,0 +1,5 @@
+The university’s cybersecurity lab just launched CyberGuard AI, an advanced file scanner powered by machine learning. Students are invited to upload .zip files to see how well the system handles real-world malware. But rumor has it... this “scanner” might not be so secure after all. One of the devs left in a vulnerability — and someone hid a secret inside the system during testing. Can you exploit the system and extract the hidden flag?
+
+Example Submit: flag{Answer}
+
+Link URL: https://ctflab.r202.in.th:15018/

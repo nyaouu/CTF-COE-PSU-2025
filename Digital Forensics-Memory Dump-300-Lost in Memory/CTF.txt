@@ -1,0 +1,5 @@
+Your mission is to recover classified information hidden deep within the system's memory. Start by checking the environment for any unusual variables that may lead you to the next clue.
+
+Example Submit: flag{Answer}
+
+Link URL: https://bit.ly/4c5idWw

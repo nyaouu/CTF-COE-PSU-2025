@@ -1,0 +1,3 @@
+What is the algorithm used in SSL Certificate on “https://www.coe.psu.ac.th/" [From Staff : Answer in plain text lower case only]
+
+Link URL: https://www.coe.psu.ac.th/

@@ -1,0 +1,7 @@
+In the quiet, dimly lit server room, an important file has been hidden away. You’ve gained access to the system, but there’s a catch — the file is locked behind a vulnerable web application. To retrieve the flag, you'll need to exploit an XML vulnerability lurking within the system. Navigate the system and uncover the secret stored deep inside /var/www/. The path is clear, but the contents are concealed behind a vulnerable XML parser. The flag awaits, but only if you can exploit the vulnerability.
+
+Example Submit: flag{Answer}
+
+Link URL: https://ctflab.r202.in.th:15014/
+
+hint: To uncover the hidden flag, you'll need to craft the right XML. Look for vulnerabilities in the way the server processes files, and remember — external entities can lead you to hidden secrets.

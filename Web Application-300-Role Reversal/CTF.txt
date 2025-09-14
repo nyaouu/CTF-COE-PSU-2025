@@ -1,0 +1,7 @@
+You’ve intercepted a token from a system that controls access to a restricted area. The role attached to it seems limited, but something tells you it can be modified. The robots overseeing the system are there to help if you ask, but only if you know what to look for. Can you figure out what needs to change to gain full access?
+
+Example Submit: flag{Answer}
+
+Link URL: https://ctflab.r202.in.th:15013/
+
+hint: Look at the role carefully — sometimes the key to access is hidden in plain sight. The robots might help if you ask the right question.

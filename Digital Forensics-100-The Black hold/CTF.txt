@@ -1,0 +1,3 @@
+[Black] holes are some of the most enigmatic and intriguing objects in the universe. They are regions in space where the gravitational pull is so strong that not even light can escape, making them invisible to traditional telescopes. The boundary around a black hole beyond which nothing can return is called the event horizon.
+
+Example Submit: flag{Answer}

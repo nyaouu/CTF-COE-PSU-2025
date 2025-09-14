@@ -1,0 +1,3 @@
+An intercepted network capture from a legacy system revealed dozens of connection attempts, idle chatter, protocol handshakes, and automated service responses. The file looks like background noise — just another routine day in the machine. But one of these services greets clients in a strangely personal way. A welcome message... too specific to be automated. No authentication, no exchange — just a subtle whisper, embedded in a standard protocol's courtesy.
+
+Example Submit: flag{Answer}

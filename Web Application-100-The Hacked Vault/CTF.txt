@@ -1,0 +1,7 @@
+The vault you are trying to access has a strong defense in the form of a login page. But something doesn’t seem right. The vault’s door is locked, but there might be a way to bypass the lock if you know the right combination. Look closely at how the door checks your credentials; it might not be as secure as it seems.
+
+Example Submit: flag{Answer}
+
+Link URL: https://ctflab.r202.in.th:15010/
+
+hint: You might need to manipulate the way the system checks the combination. Look for any unusual behavior when entering incorrect credentials.

@@ -1,0 +1,1 @@
+A message was encrypted using RSA with a freshly generated key. You only get the public key and the encrypted message. Can you break the encryption and recover the flag?

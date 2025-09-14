@@ -1,0 +1,5 @@
+At what date do her planes depart? [Format : DD-MM Ex.01-01] [From Staff : Answer in plain text lower case only]
+
+Link URL: https://x.com/AmaliaMercot
+
+hint: Convert the Julian date to normal

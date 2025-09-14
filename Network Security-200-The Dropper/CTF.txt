@@ -1,0 +1,5 @@
+An analyst intercepted suspicious traffic during a routine inspection of network logs. One internal client appeared to be requesting an innocent-looking .doc file from an external server. But you know better — this wasn’t a Word document meant for printing monthly reports. Dive into the capture, isolate the transfer, and retrieve the true payload. If you find the real file, compute its SHA1 hash and prove that you’ve seen what lies beneath the drop.
+
+Example Submit: flag{Answer}
+
+hint: Export with wireshark is not work , you must manually export it.

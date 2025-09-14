@@ -1,0 +1,3 @@
+A critical internal server reported unusual activity over SSH — repeated failed login attempts, followed by a successful login and suspicious command execution.The PCAP was extracted just in time, but amidst the sea of brute-force noise, system chatter, and legitimate users, your job is to identify the true origin of the intrusion.What is the IP address of the real attacker ?
+
+Example Submit: flag{Answer}

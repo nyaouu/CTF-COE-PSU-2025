@@ -1,0 +1,3 @@
+A network capture from a legacy service revealed a long stream of repeated authentication attempts — like a bot gone wild. Most of the traffic? Useless. Repetitive. Rejected. But somewhere in the noise… something slipped through. No alarms were triggered. No credentials stood out. But in the middle of the mess, a file was uploaded. Quietly. That file contained a message — nothing obviously malicious, just words. But something about the way it was written doesn’t feel right. Can you find the trace no one else noticed?
+
+Example Submit: flag{Answer}
